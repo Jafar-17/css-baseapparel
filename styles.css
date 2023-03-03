@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    max-width: 1400px;
+    font-family: font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:16px;
+    
+    
+    
+}
+
+.hero{
+    float: right;
+    width: 40%;
+    
+
+    
+}
+.container{
+    padding: 10px 100px;
+}
+.heading{
+    color: rgb(163, 101, 91);
+    letter-spacing: 8px;
+    margin-top: 80px;
+    font-size: 1.8rem;
+    
+
+    
+}
+.h{
+    color: black;
+}
+    
+p{
+    color: rgb(124, 57, 45);
+    width: 380px;
+    margin-top: 13px;
+}
+
+.hero img{
+    height: 99vh;
+    width: 100%;
+    
+}
+.btn{
+    padding: 10px 90px;
+    border-radius: 25px;
+    margin-top: 30px;
+    
+}
